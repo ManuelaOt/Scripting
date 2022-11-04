@@ -6,8 +6,8 @@
     [double] para decimales, [String] para cadenas de caracteres, [bool] para datos de tipo verdadero/falso, [datetime]para fechas... Con GetType() se puede saber el tipo de dato
  .NOTES
     File: constantes.ps1
-    Author: Magarín
-    Date: Octubre 2022
+    Author: Otero
+    Date: Noviembre 2022
 #>
 
 #Ejemplo números enteros y operaciones
